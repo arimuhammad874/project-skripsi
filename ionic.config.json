@@ -1,0 +1,8 @@
+{
+  "name": "Project Skripsi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "91daff11"
+}
